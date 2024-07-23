@@ -10,4 +10,4 @@ Mi nombre es David Santiago Charrys Pacheco soy Desarrollador Full-Stack y te do
 
 [CharrysDev-Python-Course](https://github.com/CharrysDev/CharrysDev-Python-Course) © 2024 by [David Charrys](https://github.com/CharrysDev) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-![alt text](by-sa.png)
+![alt text](cc-by-sa-4.0.png)
